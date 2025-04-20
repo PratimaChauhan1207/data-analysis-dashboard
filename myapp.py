@@ -1,5 +1,3 @@
-from tkinter.font import names
-
 import pandas as pd
 import plotly.express as px
 import streamlit as st
