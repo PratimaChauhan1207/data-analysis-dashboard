@@ -1,5 +1,6 @@
-Pandas
-Plotly
-Streamlit
+streamlit
+pandas
+plotly
 openpyxl
-openpbxl
+pyxlsb
+matplotlib
