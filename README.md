@@ -45,4 +45,6 @@ streamlit run myapp.py
 - [ ] Improve dark/light theme UI
 - [ ] Add download option for visualized data
 
+<img width="552" alt="image" src="https://github.com/user-attachments/assets/92d0753a-bf2d-49d0-b970-a2188600250a" />
+
 ---
